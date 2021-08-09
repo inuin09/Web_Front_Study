@@ -19,9 +19,9 @@
 
 ### semantic요소
 **header**
-html의 header부분이다.
-html구조의 body부분에서 '머리'의 역할을 하는 태그가 header이다.
-주로 큰 제목이나 로고, 작성자의 폼 등이 들어가고, 그것들에 link를 연결할 수도 있다.
+html의 header부분이다.  
+html구조의 body부분에서 '머리'의 역할을 하는 태그가 header이다.  
+주로 큰 제목이나 로고, 작성자의 폼 등이 들어가고, 그것들에 link를 연결할 수도 있다.  
 
 **nav**
 말 그대로 html의 body에서 네비게이션의 역할을 해주는 tag이다.
