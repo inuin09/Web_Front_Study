@@ -1,39 +1,5 @@
 # Web_Front_Study
-
-## HTML
-
-    <!DOCTYPE html>  
-    <html lang="ko">  
-
-    <head>  
-     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">  <!--한글깨짐 방지-->
-     <title>Hello-inuin</title>  <!--웹페이지의 제목-->
-    </head>  
-    
-    <body>  
-    </body>  
-    
-    </html>
-
-위의 코드와 같이, HTML은 !DOCTYPE html로 시작해야한다.
-
-### semantic요소
-**header**  
-html의 header부분이다.  
-html구조의 body부분에서 '머리'의 역할을 하는 태그가 header이다.  
-주로 큰 제목이나 로고, 작성자의 폼 등이 들어가고, 그것들에 link를 연결할 수도 있다.  
-
-**nav**  
-말 그대로 html의 body에서 네비게이션의 역할을 해주는 tag이다.  
-컨텐츠를 검색할때 네비게이션같은 기능을 해주는 tag.  
-
-**section**  
-본문의 여러 내용(article)을 포함하는 공간을 말한다.  
-
-**article**  
-바로 이 부분이 웹페이지에서 본문에 해당하는 영역이다! 를 표현해주는 tag  
-본문의 주 내용이 들어가는 공간을 의미.  
-
-**footer**  
-웹페이지의 하단에 표시되는 부분의 영역 tag  
-
+2021.09.14<br>
+예제를 따라하고, 거기서 변형시키면서 공부하는 것도 많은 도움이 되지만 아무래도 기초부터 완전 다시 탄탄하게 쌓아가면서 하는 것이 더 맞을 것 같아서 HTML부터 다시 공부하기로 결정!<br>
+html->css->js 순으로 공부를 하되, 주말에는 예시 웹사이트 같은걸 보고 따라 만들거나 애니메이션 기능이 들어간 css 예제를 보며 따라하기로 하였다.<br>
+1일 1커밋 시작.
